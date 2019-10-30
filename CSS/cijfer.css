@@ -43,9 +43,12 @@ nav{
 }
 
 h1 {
-    margin-left: 20px
+    margin-left: 20px;
+    font-size: 60px;
+    letter-spacing: 10px;
 }
 
 h2 {
-    margin-left: 20px
+    margin-left: 20px;
 }
+
