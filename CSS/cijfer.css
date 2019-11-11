@@ -10,7 +10,8 @@ body {
 
 }
 
-
+#menu {
+}
 
 ul {
 
@@ -52,3 +53,12 @@ h2 {
     margin-left: 20px;
 }
 
+img {
+margin: 10%;
+}
+
+.blokkieinfo {
+  background-color: red;
+  height: 20%;
+  margin: 20px;
+}
