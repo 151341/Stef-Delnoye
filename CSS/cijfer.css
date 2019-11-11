@@ -61,4 +61,15 @@ margin: 10%;
   background-color: red;
   height: 20%;
   margin: 20px;
+  border: 6px dotted black;
+  padding: 15px;
+
+}
+
+.bronnen {
+    background-color: lightblue;
+    margin: 25px;
+    height: 32%;
+    border: 10px dotted greenyellow;
+  padding: 20px;
 }
