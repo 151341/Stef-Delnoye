@@ -11,7 +11,8 @@ body {
 }
 
 #menu {
-    margin-top: 20px;
+    margin-top: 10px;
+    
 }
 
 ul {
@@ -89,3 +90,6 @@ img {
    float: right;
 }
 
+p.vb {
+        text-align: center;
+}
