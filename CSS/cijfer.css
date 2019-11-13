@@ -139,3 +139,25 @@ nav ul img {
     text-align: center;
     
 }
+
+.titel {
+    text-align: center;
+    font-size: 46px;
+}
+
+.ptone {
+    background-color: lightblue;
+    font-size: 25px;
+    height: 800px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 35px;
+    border: 4px ridge white;
+}
+
+.aa {
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
