@@ -1,9 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
      height: 100%;
 }
 
 body {
-    background-color: lightgrey;
+    background-color: white;
     margin: 0;
     padding: 0;
     height: 100%;
@@ -58,9 +62,6 @@ nav{
      float: right;
 }
 
-img {
-
-}
 
 .blokkieinfo {
   background-color: mediumaquamarine;
@@ -95,7 +96,9 @@ p.vb {
 }
 
 #menu nav {
-    background-color: yellow;
+    background-color: lightgrey;
+margin-left: 10px;
+margin-right: 10px;
 }
 
 #container {
@@ -114,4 +117,8 @@ nav ul img {
     background-color: red;
     border-radius: 27px;
     border: 6px double blue;
+}
+
+.jm {
+    
 }
