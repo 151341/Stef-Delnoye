@@ -110,7 +110,7 @@ nav ul img {
 
 .blokkieinfo {
   background-color: lightblue;
-  height: 80%;
+  height: 1000px;
   margin: 20px;
   border: 6px double rgb(184, 79, 79);
   padding: 15px;
@@ -256,7 +256,7 @@ div.vervolg {
 }
 
 div.afsluiting {
-    border: 4px ridge white;
+    border: 4px double white;
     padding: 30px;
     border-radius: 20px;
     font-size: 105%;
@@ -287,4 +287,16 @@ div.uitleg {
 
 .gl {
     text-align: center;
+}
+
+.middenstuk {
+    border: 4px double white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 125%;
+}
+
+div.picc {
+    margin-right: 430px;
 }
