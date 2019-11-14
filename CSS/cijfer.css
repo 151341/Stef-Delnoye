@@ -67,15 +67,7 @@ nav{
 }
 
 
-.blokkieinfo {
-  background-color: lightblue;
-  height: 80%;
-  margin: 20px;
-  border: 6px ridge black;
-  padding: 15px;
-  border-radius: 30px;
 
-}
 
 .bronnen {
     background-color: lightblue;
@@ -116,14 +108,32 @@ nav ul img {
     float: left;
 }
 
-.logoinfo {
-    margin: 20px;
-    padding: 20px;
-    background-color: red;
-    border-radius: 27px;
-    border: 6px double blue;
-    height: 800px;
+.blokkieinfo {
+  background-color: lightblue;
+  height: 80%;
+  margin: 20px;
+  border: 6px double rgb(184, 79, 79);
+  padding: 15px;
+  border-radius: 30px;
+
 }
+
+.favoauto {
+    background-color: rgb(175, 175, 236);
+    height: 1000px;
+    padding: 15px;
+    border-radius: 30px;
+    border: 6px dashed rgb(184, 79, 79);
+    margin: 20px;
+
+}
+
+.kopje {
+    font-size: 150%;
+    text-align: center;
+
+}
+
 
 #container2 {
     text-align: center;
@@ -251,4 +261,26 @@ div.afsluiting {
     border-radius: 20px;
     font-size: 105%;
     margin-top: 80px;
+}
+
+div.uitleg {
+    border: 4px double white;
+    border-radius: 20px;
+    font-size: 155%;
+    margin: 30px;
+    padding: 30px;
+}
+
+.fotoab {
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+}
+
+.ac {
+    padding: 10px;
+}
+
+.now {
+    padding: 10px;
 }
