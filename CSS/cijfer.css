@@ -187,3 +187,41 @@ nav ul img {
     margin-right: auto;
     display: block;
 }
+
+.vlgone {
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.fvolgorde {
+    display: flex;
+}
+
+.M {
+    padding: 10px;
+}
+
+.bmwn {
+    padding: 10px;
+}
+
+.audin {
+    padding: 10px;
+}
+
+.volgorde {
+    background-color: white;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+div.finf {
+    font-size: 105%;
+    padding: 10px;
+}
