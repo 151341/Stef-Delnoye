@@ -148,11 +148,20 @@ nav ul img {
 .ptone {
     background-color: lightblue;
     font-size: 25px;
-    height: 800px;
+    height: 1800px;
     padding: 30px;
     margin: 30px;
     border-radius: 35px;
     border: 4px ridge white;
+}
+
+.Maybach {
+    padding: 10px;
+    margin-left: auto;
+}
+
+.bc {
+    border: 10px;
 }
 
 .aa {
