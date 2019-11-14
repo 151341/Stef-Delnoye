@@ -149,7 +149,7 @@ nav ul img {
 .ptone {
     background-color: lightblue;
     font-size: 25px;
-    height: 1800px;
+    height: 2800px;
     padding: 30px;
     margin: 30px;
     border-radius: 35px;
@@ -195,6 +195,7 @@ nav ul img {
     font-size: 30px;
     border-radius: 100px;
     padding: 10px;
+    margin-top: 80px;
 }
 
 .fvolgorde {
@@ -219,18 +220,35 @@ nav ul img {
     border-radius: 100px;
     font-size: 30px;
     padding: 10px;
+    margin-top: 80px;
 }
 
 
 div.finf {
     font-size: 105%;
-    padding: 10px;
+    padding: 30px;
     background-color: lightblue;
-    border-color: white
-    
+    border: 4px ridge white;
+    border-radius: 20px;
 }
 
 div.vervolg {
   font-size: 105%;
-  padding: 10px;
+  padding: 30px;
+  border: 4px ridge white;
+  border-radius: 20px;
+  margin-top: 80px;
+}
+
+.conct {
+    text-align: center;
+    font-size: 190%;
+}
+
+div.afsluiting {
+    border: 4px ridge white;
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 105%;
+    margin-top: 80px;
 }
