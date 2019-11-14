@@ -155,9 +155,26 @@ nav ul img {
     border: 4px ridge white;
 }
 
+.pvc {
+    display: flex;
+
+}
+
+
 .Maybach {
     padding: 10px;
-    margin-left: auto;
+}
+
+.RR {
+    padding: 10px;
+}
+
+.Brabus {
+    padding: 10px;
+}
+
+.Bentley {
+    padding: 10px;
 }
 
 .bc {
