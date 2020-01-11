@@ -15,7 +15,7 @@ body {
 }
 
 body.lightgrey {
-    background-color: lightgray;
+    background-color: black;
 }
 
 #menu {
@@ -108,21 +108,21 @@ nav ul img {
 }
 
 .blokkieinfo {
-  background-color: lightblue;
+  background-color:	#808080;
   height: 1000px;
   margin: 20px;
-  border: 6px double rgb(184, 79, 79);
+  border: 6px double white;
   padding: 15px;
   border-radius: 30px;
 
 }
 
 .favoauto {
-    background-color: rgb(175, 175, 236);
+    background-color: 	#808080;
     height: 1000px;
     padding: 15px;
     border-radius: 30px;
-    border: 6px dashed rgb(184, 79, 79);
+    border: 6px double white;
     margin: 20px;
 
 }
@@ -156,7 +156,7 @@ nav ul img {
 }
 
 .ptone {
-    background-color: lightblue;
+    background-color:#808080;
     font-size: 25px;
     height: 2800px;
     padding: 30px;
@@ -236,7 +236,7 @@ nav ul img {
 div.finf {
     font-size: 105%;
     padding: 30px;
-    background-color: lightblue;
+    background-color: 	#808080;
     border: 4px ridge white;
     border-radius: 20px;
 }
