@@ -14,9 +14,16 @@ body {
 
 }
 
-body.lightgrey {
+.opp {
+background-color: black;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.lightgrey {
     background-color: black;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 #menu {
@@ -55,6 +62,7 @@ nav{
     background: white;
 position: fixed;
 top: 0px;
+
 }
 
 #gt h1 {
@@ -67,7 +75,9 @@ top: 0px;
 }
 
 
-
+.kop {
+    text-align: center;
+}
 
 
 
@@ -110,12 +120,12 @@ top: 0px;
 
 nav ul img {
     float: left;
+
 }
 
 .blokkieinfo {
-  background-color:	#808080;
+  background-color:	rgba(129, 158, 201, 0.3);
   height: 1000px;
-  border: 6px red;
   padding: 15px;
   border-radius: 15px;
   margin-left: 20px;
@@ -126,7 +136,7 @@ nav ul img {
 
 .favoauto {
     background-color: 	#808080;
-    height: 1000px;
+    height: 750px;
     padding: 15px;
     border-radius: 30px;
     margin: 20px;
