@@ -6,14 +6,6 @@ html {
      height: 100%;
 }
 
-body {
-    background-color: white;
-    margin: 0;
-    padding: 0;
-    height: 100%;
-
-}
-
 .opp {
 background-color: black;
 margin-top: 100px;
@@ -316,4 +308,17 @@ div.uitleg {
 
 div.picc {
     margin-right: 430px;
+}
+
+.GGG {
+    background-image: url('randomG.jpg');
+
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
 }
