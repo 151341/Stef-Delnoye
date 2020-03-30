@@ -6,14 +6,9 @@ html {
      height: 100%;
 }
 
-.opp {
-background-color: black;
-margin-top: 100px;
-margin-bottom: 100px;
-}
-
 .lightgrey {
     background-image: url('../geschiedenisbg.jpg');
+    background-attachment: fixed;
     background-repeat: no-repeat;
        background-size: cover;
 background-position: center;
@@ -78,15 +73,15 @@ top: 0px;
 
 
 .bronnen {
-    background-color: lightblue;
-    margin-left: 15px;
-    margin-right: 15px;
-  margin-top: 150px;
-
+    background-color: rgba(182, 183, 243, 0.5);
+margin-top: 150px;
     height: 800px;
   padding: 20px;
   border-radius: 15px;
   display: block;
+  text-align: center;
+  margin-left: 250px;
+    margin-right: 250px;
 }
 
 
@@ -119,18 +114,15 @@ nav ul img {
 }
 
 .blokkieinfo {
-  background-color:	rgba(129, 158, 201, 0.3);
   height: 700px;
   padding: 15px;
   border-radius: 15px;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 150px;
-  margin-bottom: 70px;
 }
 
 .favoauto {
-  background-color:	rgba(129, 158, 201, 0.3);
     height: 750px;
     padding: 15px;
     border-radius: 30px;
@@ -167,24 +159,6 @@ margin-top: 120px;
     font-size: 46px;
 }
 
-.ptone {
-    background-color:#808080;
-    font-size: 25px;
-    text-align: center;
-    height: 2100px;
-    padding: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
-    border-radius: 15px;
-    margin-top: 150px;
-}
-
-.pvc {
-    display: flex;
-
-}
-
-
 .Maybach {
     padding: 10px;
 }
@@ -212,19 +186,6 @@ margin-top: 120px;
     display: block;
 }
 
-.vlgone {
-    background-color: white;
-    text-align: center;
-    font-size: 30px;
-    border-radius: 100px;
-    padding: 10px;
-    margin-top: 80px;
-}
-
-.fvolgorde {
-    display: flex;
-}
-
 .M {
     padding: 10px;
 }
@@ -235,45 +196,6 @@ margin-top: 120px;
 
 .audin {
     padding: 10px;
-}
-
-.volgorde {
-    background-color: white;
-    text-align: center;
-    border-radius: 100px;
-    font-size: 30px;
-    padding: 10px;
-    margin-top: 80px;
-}
-
-
-div.finf {
-    font-size: 105%;
-    padding: 30px;
-    background-color: 	#808080;
-    border: 4px ridge white;
-    border-radius: 20px;
-}
-
-div.vervolg {
-  font-size: 105%;
-  padding: 30px;
-  border: 4px ridge white;
-  border-radius: 20px;
-  margin-top: 80px;
-}
-
-.conct {
-    text-align: center;
-    font-size: 190%;
-}
-
-div.afsluiting {
-    border: 4px double white;
-    padding: 30px;
-    border-radius: 20px;
-    font-size: 105%;
-    margin-top: 80px;
 }
 
 div.uitleg {
@@ -327,4 +249,86 @@ body {
     background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
+background-attachment: fixed;
+}
+
+.colo {
+background-image: url('../clf.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+.opp {
+background-color: black;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.conct {
+    text-align: center;
+    font-size: 190%;
+}
+
+.ptone {
+    background-color:#808080;
+    font-size: 25px;
+    text-align: center;
+    height: 1000px;
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    margin-top: 150px;
+}
+
+div.finf {
+    font-size: 105%;
+    padding: 30px;
+    background-color: 	#808080;
+    border: 4px ridge white;
+    border-radius: 20px;
+}
+
+.vlgone {
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.fvolgorde {
+    display: flex;
+}
+
+.volgorde {
+    background-color: white;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 80px;
+}
+
+.pvc {
+    display: flex;
+}
+
+div.vervolg {
+  font-size: 105%;
+  padding: 30px;
+  border: 4px ridge white;
+  border-radius: 20px;
+  margin-top: 80px;
+}
+
+div.afsluiting {
+    border: 4px double white;
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 105%;
+    margin-top: 80px;
 }
