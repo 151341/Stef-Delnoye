@@ -13,7 +13,10 @@ margin-bottom: 100px;
 }
 
 .lightgrey {
-    background-color: black;
+    background-image: url('../geschiedenisbg.jpg');
+    background-repeat: no-repeat;
+       background-size: cover;
+background-position: center;
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -39,7 +42,7 @@ display: block;
 text-decoration: none;
 font-size: 14px;
 font-family: Arial;
-color: red;
+color: black;
 padding: 0 20px;
 transition: 0.4s ease;
 }
@@ -117,28 +120,29 @@ nav ul img {
 
 .blokkieinfo {
   background-color:	rgba(129, 158, 201, 0.3);
-  height: 1000px;
+  height: 700px;
   padding: 15px;
   border-radius: 15px;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 150px;
-
+  margin-bottom: 70px;
 }
 
 .favoauto {
-    background-color: 	#808080;
+  background-color:	rgba(129, 158, 201, 0.3);
     height: 750px;
     padding: 15px;
     border-radius: 30px;
-    margin: 20px;
-
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 120px;
 }
 
 .kopje {
     font-size: 150%;
     text-align: center;
-
+    color: white;
 }
 
 
@@ -310,15 +314,17 @@ div.picc {
     margin-right: 430px;
 }
 
-.GGG {
-    background-image: url('randomG.jpg');
-
-}
-
 body {
     background-color: white;
     margin: 0;
     padding: 0;
     height: 100%;
 
+}
+
+.GGG {
+    background-image: url('../randomG.jpg');
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
