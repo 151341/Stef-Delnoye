@@ -40,6 +40,7 @@ font-family: Arial;
 color: black;
 padding: 0 20px;
 transition: 0.4s ease;
+
 }
 
 ul li a:hover {
@@ -77,7 +78,7 @@ top: 0px;
 margin-top: 150px;
     height: 800px;
   padding: 20px;
-  border-radius: 15px;
+  border-radius: 20px;
   display: block;
   text-align: center;
   margin-left: 250px;
@@ -87,10 +88,6 @@ margin-top: 150px;
 
 .gt{
  text-align: right;
-}
-
-.blokkieinfo img{
-   float: right;
 }
 
 .vb {
@@ -116,7 +113,7 @@ nav ul img {
 .blokkieinfo {
   height: 700px;
   padding: 15px;
-  border-radius: 15px;
+  border-radius: 20px;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 150px;
@@ -125,7 +122,7 @@ nav ul img {
 .favoauto {
     height: 750px;
     padding: 15px;
-    border-radius: 30px;
+    border-radius: 20px;
 margin-left: 20px;
 margin-right: 20px;
 margin-top: 120px;
@@ -137,15 +134,11 @@ margin-top: 120px;
     color: white;
 }
 
-#fotom {
-    text-align: center;
-}
-
 .picc {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #container2 {
@@ -263,18 +256,23 @@ background-image: url('../clf.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-
 }
 
-.opp {
-background-color: black;
-margin-top: 100px;
-margin-bottom: 100px;
+.tf {
+background-image: url('../desert.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+height: 500px;
 }
 
 .conct {
-    text-align: center;
-    font-size: 190%;
+height: 100vh;
+background-image: url('../dtm.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
 
 .ptone {
@@ -283,11 +281,7 @@ margin-bottom: 100px;
     text-align: center;
     height: 1250px;
     padding: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
-    border-radius: 15px;
-    margin-top: 150px;
-}
+    }
 
 div.finf {
     font-size: 105%;
@@ -341,8 +335,6 @@ div.afsluiting {
 
 .tweedediv {
     background-color: #808080;
-    margin: 20px;
-    border-radius: 15px;
     height: 900px;
     padding: 30px;
 }
